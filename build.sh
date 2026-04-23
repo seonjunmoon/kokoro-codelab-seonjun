@@ -12,4 +12,4 @@ set -e
 #  parameters, will print the full command, with credentials, in the build logs.
 # set -x
 
-echo "Hello"
+echo "Hello World"
